@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+artifacts/*
+!artifacts/.gitkeep
+*:Zone.Identifier
+
+# Secrets and machine-local config -- never commit these
+.env
+.env.*
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local AI-tooling directories -- not project content; the streamlit skill
+# symlink inside these points into .venv/ and would be a dangling link for
+# anyone else who clones this repo
+.claude/
+.agents/
