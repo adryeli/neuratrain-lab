@@ -4,6 +4,8 @@
 
 Clase introductorio de redes neuronales artificiales, pensado para **aprender haciendo**: 4 temas, cada uno con un notebook de ejercicios reales y una página interactiva en una app Streamlit, que termina en un laboratorio donde entrenas un modelo de verdad sobre datos clínicos.
 
+Esta aplicación esta en V.1, puede sufrir modificaciones a lo largo del tiempo.
+
 ## 1. Explicación rápida
 
 El curso responde, en orden, a 4 preguntas:
