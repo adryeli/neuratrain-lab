@@ -112,7 +112,7 @@ Streamlit mostrará una URL local, normalmente `http://localhost:8501`.
 
 Sube el `.ipynb` a https://colab.research.google.com (*Archivo → Subir cuaderno*). Los Notebooks 1-3 no necesitan ningún archivo adicional. El Notebook 4 necesita `data/breast_cancer_wisconsin.csv`: súbelo también con el panel de archivos de Colab antes de ejecutar las celdas que lo cargan.
 
-## 5. Ejecutar con Docker
+## 5. Ejecutar con Docker (Pendiente)
 
 ```bash
 docker compose up --build
